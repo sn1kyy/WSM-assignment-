@@ -1,6 +1,17 @@
 # Mini Search Engine (Information Retrieval System)
 
+Course Assignment Submission
+
+Course: Web Search and Mining 
+Project: Implementation of a Modular Text Search Engine
+Live Deployed Application: https://mini-search-engine-app-assignment.streamlit.app
+
+Submitted By:
+Nikita Bardan Lugun (Roll No: B124078)
+Jyotismita Das (Roll No: B12057)
+
 A modular, lightweight Information Retrieval (IR) search engine built in Python 3 with a Streamlit GUI. This project demonstrates the core architectural components of a text search engine—from raw document loading, tokenization, and normalization to inverted index construction, boolean query parsing, and wildcard matching—without relying on high-level external search libraries (such as Elasticsearch, Solr, Lucene, or Whoosh).
+
 
 ---
 
